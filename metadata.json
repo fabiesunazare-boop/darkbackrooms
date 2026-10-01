@@ -1,0 +1,6 @@
+{
+  "name": "Dark Backrooms",
+  "description": "Jogo de terror e sobrevivência em 3D nos corredores sombrios das Backrooms com monstros procedurais aterrorizantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
